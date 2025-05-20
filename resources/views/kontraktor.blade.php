@@ -50,12 +50,10 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="#hero" class="active">Beranda</a></li>
-          <li><a href="#about">Kontruksi</a></li>
-          <li><a href="#pricing">pricelist</a></li>
-          <li><a href="custom">custom</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>      
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#">Kontruksi</a></li>
+          <li><a href="#">pricelist</a></li>
+          <li><a href="#">Tentang Kami</a></li>
+          <li><a href="#">Blog</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
