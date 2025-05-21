@@ -49,10 +49,10 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Beranda</a></li>
-          <li><a href="#">Kontruksi</a></li>
-          <li><a href="#">pricelist</a></li>
-          <li><a href="#">Tentang Kami</a></li>
+          <li><a href="{{ route('home') }}">Beranda</a></li>
+          <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
+          <li><a href="{{ route('pricelist') }}">pricelist</a></li>
+          <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
           <li><a href="#">Blog</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
