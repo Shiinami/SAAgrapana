@@ -10,7 +10,7 @@
 
   <!-- Favicons -->
   <link href="/assets/img/Sila Agug Agrapana.jpg" rel="icon">
-  <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="/assets/img/Sila Agug Agrapana.jpg" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -52,10 +52,9 @@
           <li><a href="#hero" class="active">Beranda</a></li>
           <li><a href="#about">Kontruksi</a></li>
           <li><a href="#pricing">pricelist</a></li>
-          <li><a href="custom">custom</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>      
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#">Tentang Kami</a></li>
+       
+
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -88,9 +87,7 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Bangun Rumah
-
-          TINGGALMU</h2>
+        <h2>Bangun Rumah TINGGALMU</h2>
         <p>Ubah Impian Menjadi Kenyataan!! Menghadirkan solusi konstruksi yang tepat dan fisien biaya untuk setiap anggaran.</p>
       </div><!-- End Section Title -->
 
@@ -100,18 +97,21 @@
 
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Ubah Impian Menjadi Kenyataan!! Menghadirkan solusi konstruksi yang tepat dan fisien biaya untuk setiap anggaran.
+              Layanan Kami:
             </p>
             <ul>
-              <li><i class="bi bi-check2-circle"></i> <span>BAHAN BERKUALITAS DAN MATERAIAL YANG TERBAIK</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>JASA TERJANGKAU DAN EFISIEN</span></li>
-              <li><i class="bi bi-check2-circle"></i> <span>PROSES YANG CEPAT DAN TEPAT</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Pembangunan rumah tinggal, gedung, ruko, dan tempat wisata</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Jasa design & build terintegrasi</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Desain arsitektur & gambar kerja lengkap</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Desain interior hunian, kantor, cafe, dll</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Renovasi dan penataan ulang</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Pengurusan perizinan bangunan</span></li>
             </ul>
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <p>Deangan Sila Agung Agrapana Memberikan Solusi Konstruksi yang tepat karena didukung oleh tenaga kerja berpengalamanan dan layanan prima dalam memenuhi kebutuhan perencanaan, Pengembangan, Kontruksi, Interior, dan Eksterior Furniture</p>
-            <a href="https://wa.me/085649838098" class="read-more"><span>Konsultasikan Sekarang</span><i class="bi bi-arrow-right"></i></a>
+            <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana." class="read-more"><span>Konsultasikan Sekarang</span><i class="bi bi-arrow-right"></i></a>
           </div>
 
         </div>
@@ -137,8 +137,8 @@
 
         <div class="row" data-aos="zoom-in" data-aos-delay="100">
           <div class="col-xl-9 text-center text-xl-start">
-            <h3>Call To Action</h3>
-            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>Solusi Konstruksi Terbaik untuk Masa Depan Anda</h3>
+            <p>Kami hadir untuk mewujudkan visi Anda melalui layanan konstruksi yang efisien, terpercaya, dan berorientasi hasil. Percayakan kebutuhan proyek Anda kepada tim yang berpengalaman dan berdedikasi.</p>
           </div>
           <div class="col-xl-3 cta-btn-container text-center">
          
@@ -198,7 +198,7 @@
 
       </div>
 
-      </
+      
 
         <!-- Pricing Section -->
       <section id="pricing" class="pricing section light-background">
@@ -215,7 +215,7 @@
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
               <div class="pricing-item">
-                <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+                <img src="/assets/img/2fff96f9-de81-42b2-979a-412327020b54.jpeg" alt="Business Plan" style="width: 80%; border-radius: 10px 10px 0 0;">
                 <h3>PAKET LITE</h3>
                 <h4><sup>Rp</sup>25.000<span> /m Persegi</span></h4>
                 <ul>
@@ -231,14 +231,14 @@
                     <!-- <li class="na">-</li> -->
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Pilih Paket</a>
+                  <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20paket%20lite." class="btn-buy">Pilih Paket</a>
                 </div>
               </div>
             </div><!-- End Pricing Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="pricing-item recommended">
-                 <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+                 <img src="/assets/img/2fff96f9-de81-42b2-979a-412327020b54.jpeg" alt="Business Plan" style="width: 80%; border-radius: 10px 10px 0 0;">
                 
                 <h3>PAKET ADVANCED</h3>
                 
@@ -255,14 +255,14 @@
                  
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Pilih Paket</a>
+                  <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20paket%20Advanced." class="btn-buy">Pilih Paket</a>
                 </div>
               </div>
             </div><!-- End Pricing Item -->
 
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div class="pricing-item">
-                <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+                <img src="/assets/img/2fff96f9-de81-42b2-979a-412327020b54.jpeg" alt="Business Plan" style="width: 80%; border-radius: 10px 10px 0 0;">
                 <h3>PAKET MEDIUM</h3>
                 <h4><sup>Rp</sup>50.000<span> /m  Persegi</span></h4>
                 <ul>
@@ -275,7 +275,7 @@
                   <li>-</li>
                 </ul>
                 <div class="btn-wrap">
-                  <a href="#" class="btn-buy">Pilih Paket</a>
+                  <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20paket%20Medium." class="btn-buy">Pilih Paket</a>
                 </div>
               </div>
             </div><!-- End Pricing Item -->
@@ -358,7 +358,7 @@
 
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
   <div class="pricing-item">
-      <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+      <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan" style="width: 70%; border-radius: 10px 10px 0 0;">
     <h3>Model 1</h3>
      <span>mulai dari </span>
     <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
@@ -409,7 +409,7 @@
     </div>
 
     <div class="btn-wrap">
-      <a href="#" class="btn-buy">Konsultasikan</a>
+      <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi." class="btn-buy">Konsultasikan</a>
     </div>
   </div>
 </div>
@@ -418,7 +418,7 @@
 <!-- Business Package -->
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
   <div class="pricing-item">
-      <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+      <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan" style="width: 70%; border-radius: 10px 10px 0 0;">
     <h3>Model 2</h3>
      <span>mulai dari </span>
     <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
@@ -467,7 +467,7 @@
     </div>
 
     <div class="btn-wrap">
-      <a href="#" class="btn-buy">Konsultasikan</a>
+      <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi." class="btn-buy">Konsultasikan</a>
     </div>
   </div>
 </div>
@@ -475,7 +475,7 @@
 <!-- Developer Package -->
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
   <div class="pricing-item">
-      <img src="/assets/img/page-title-bg.webp" alt="Business Plan" style="width: 100%; border-radius: 10px 10px 0 0;">
+      <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan" style="width: 70%; border-radius: 10px 10px 0 0;">
     <h3>Model 3</h3>
     <span>mulai dari </span>
     <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
@@ -524,7 +524,7 @@
     </div>
 
     <div class="btn-wrap">
-      <a href="#" class="btn-buy">Konsultasikan</a>
+      <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi." class="btn-buy">Konsultasikan</a>
     </div>
   </div>
 </div>
@@ -541,8 +541,8 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-          <h2>Recent Blog Posts</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+          <h2>Solusi Konstruksi Terbaik untuk Masa Depan Anda</h2>
+          <p>Kami hadir untuk mewujudkan visi Anda melalui layanan konstruksi yang efisien, terpercaya, dan berorientasi hasil. Percayakan kebutuhan proyek Anda kepada tim yang berpengalaman dan berdedikasi.</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -553,24 +553,16 @@
               <article>
 
                 <div class="post-img">
-                  <img src="/assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
+                  <img src="/assets/img/blog/b219963c-6545-43c8-8a9f-2f2ccb58b4b9.png" alt="" class="img-fluid">
                 </div>
 
-                <p class="post-category">Politics</p>
+                <p class="post-category">Projeck View</p>
 
                 <h2 class="title">
-                  <a href="blog-details.html">Dolorum optio tempore voluptas dignissimos</a>
+                  <a href="/detailHtoni">Rumah Bp. H. Toni</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img src="/assets/img/blog/blog-author.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                  <div class="post-meta">
-                    <p class="post-author">Maria Doe</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jan 1, 2022</time>
-                    </p>
-                  </div>
-                </div>
+               
 
               </article>
             </div><!-- End post list item -->
@@ -579,24 +571,16 @@
               <article>
 
                 <div class="post-img">
-                  <img src="/assets/img/blog/blog-2.jpg" alt="" class="img-fluid">
+                  <img src="/assets/img/blog/e65aec7d-699d-4035-81dd-3df2c6222f60.jpeg" alt="" class="img-fluid">
                 </div>
 
-                <p class="post-category">Sports</p>
+                <p class="post-category">Projeck View</p>
 
                 <h2 class="title">
-                  <a href="blog-details.html">Nisi magni odit consequatur autem nulla dolorem</a>
+                  <a href="/detailarirumarso">Rumah Bp. Ari Lumaksono</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img src="/assets/img/blog/blog-author-2.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                  <div class="post-meta">
-                    <p class="post-author">Allisa Mayer</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jun 5, 2022</time>
-                    </p>
-                  </div>
-                </div>
+               
 
               </article>
             </div><!-- End post list item -->
@@ -605,24 +589,16 @@
               <article>
 
                 <div class="post-img">
-                  <img src="/assets/img/blog/blog-3.jpg" alt="" class="img-fluid">
+                  <img src="/assets/img/blog/4faea5b9-464d-430f-8b42-9703eb030845.jpeg" alt="" class="img-fluid">
                 </div>
 
-                <p class="post-category">Entertainment</p>
+                <p class="post-category">Projeck View</p>
 
                 <h2 class="title">
-                  <a href="blog-details.html">Possimus soluta ut id suscipit ea ut in quo quia et soluta</a>
+                  <a href="/detailyudi">Rumah Dr. Yudi Fadillah</a>
                 </h2>
 
-                <div class="d-flex align-items-center">
-                  <img src="/assets/img/blog/blog-author-3.jpg" alt="" class="img-fluid post-author-img flex-shrink-0">
-                  <div class="post-meta">
-                    <p class="post-author">Mark Dower</p>
-                    <p class="post-date">
-                      <time datetime="2022-01-01">Jun 22, 2022</time>
-                    </p>
-                  </div>
-                </div>
+               
 
               </article>
             </div><!-- End post list item -->
@@ -638,8 +614,8 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-          <h2>Contact</h2>
-          <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+          <h2>Kontak</h2>
+          <p>Melayani konsultasi gratis dengan kami berapapun anggaran anda</p>
         </div><!-- End Section Title -->
 
         <div class="container" data-aos="fade" data-aos-delay="100">
@@ -650,31 +626,24 @@
               <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                 <i class="bi bi-geo-alt flex-shrink-0"></i>
                 <div>
-                  <h3>Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <h3>Alamat</h3>
+                  <p>Jl. Rawa Lindung No. 108 Cilangkap, Cipayung Jakarta Timur</p>
                 </div>
               </div><!-- End Info Item -->
 
               <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-telephone flex-shrink-0"></i>
                 <div>
-                  <h3>Call Us</h3>
-                  <p>+1 5589 55488 55</p>
+                  <h3>Hubungi Kami</h3>
+                  <p>+62 856 498 380 98</p>
                 </div>
               </div><!-- End Info Item -->
 
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-envelope flex-shrink-0"></i>
-                <div>
-                  <h3>Email Us</h3>
-                  <p>info@example.com</p>
-                </div>
-              </div><!-- End Info Item -->
 
             </div>
 
             <div class="col-lg-8">
-              <form id="contactForm" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+             <form id="contactForm" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
 
                 <div class="row gy-4">
 
@@ -683,15 +652,15 @@
                   </div>
 
                   <div class="col-md-6 ">
-                  <input type="email" name="email" id="email" class="form-control" placeholder="Your Email" required="">
+                 <input type="email" name="email" id="email" class="form-control" placeholder="Your Email" required="">
                   </div>
 
                   <div class="col-md-12">
-                   <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required="">
+             <input type="text" name="subject" id="subject" class="form-control" placeholder="Subject" required="">
                   </div>
 
                   <div class="col-md-12">
-                   <textarea name="message" id="message" class="form-control" rows="6" placeholder="Message" required=""></textarea>
+              <textarea name="message" id="message" class="form-control" rows="6" placeholder="Message" required=""></textarea>
                   </div>
 
                   <div class="col-md-12 text-center">
@@ -699,7 +668,7 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                    <button type="submit">Send Message</button>
+                    <button type="submit">kirim pesan</button>
                   </div>
 
                 </div>
@@ -714,31 +683,18 @@
 
   </main>
 
-  <footer id="footer" class="footer dark-background">
-    <div class="container">
-      <h3 class="sitename">KnightOne</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-      <div class="social-links d-flex justify-content-center">
-        <a href=""><i class="bi bi-twitter-x"></i></a>
-        <a href=""><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
-        <a href=""><i class="bi bi-skype"></i></a>
-        <a href=""><i class="bi bi-linkedin"></i></a>
-      </div>
-      <div class="container">
-        <div class="copyright">
-          <span>Copyright</span> <strong class="px-1 sitename">KnightOne</strong> <span>All Rights Reserved</span>
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you've purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
-      </div>
-    </div>
-  </footer>
+<footer id="footer" class="footer dark-background"
+                    style="margin-top:60px; padding-top:20px; padding-bottom:10px;">
+                    <div class="container" style="max-width: 900px;">
+                        <div class="copyright text-center" style="font-size: 15px;">
+                            <span>Perusahaan</span> <strong class="px-1 sitename">PT Sila Agung Agrapana</strong>
+                            <span>2025</span>
+                        </div>
+                        <div class="credits text-center" style="font-size: 13px;">
+                            Jasa : <a href="#hero">Kontuksi Dan Arsitektur</a>
+                        </div>
+                    </div>
+                </footer>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
