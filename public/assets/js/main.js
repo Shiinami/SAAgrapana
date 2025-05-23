@@ -363,7 +363,7 @@ document.getElementById("contactForm").addEventListener("submit", function(e){
   let subject = document.getElementById("subject").value.trim();
   let message = document.getElementById("message").value.trim();
 
-  let phoneNumber = "62895396117587";
+  let phoneNumber = "6285649838098";
 
   let whatsappMessage = `Halo, saya ingin menghubungi Sila Agung Agrapana.\n\n` +
                         `Nama: ${name}\n` +
