@@ -3,12 +3,13 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pricelist');
+});
+
+Route::get('/ten', function () {
+    return view('tentangkami');
 });
 
 Route::get('/coba', function () {
     return view('kontraktor');
-});
-Route::get('/custom', function () {
-    return view('custom');
 });

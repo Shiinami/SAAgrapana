@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Starter Page - KnightOne Bootstrap Template</title>
+  <title>PT. Sila Agung Agrapana</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -44,23 +44,19 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1 class="sitename">KnightOne</h1>
+        <h1 class="sitename">Sila Agung Agrapana</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">
     <ul>
-          <li><a href="#hero" class="active">Beranda</a></li>
+          <li><a href="C:\Bintangnovala\Project\SAAgrapana\resources\views\kontraktor.blade.php" class="active">Beranda</a></li>
           <li><a href="#about">Kontruksi</a></li>
           <li><a href="#pricing">pricelist</a></li>
-          <li><a href="#/custom">custom</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>      
+          <li><a href="#/custom">Tentang kami</a></li>
           <li><a href="blog.html">Blog</a></li>
-          <li><a href="#contact">Contact</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
-
-      <a class="cta-btn" href="#about">Get Started</a>
 
     </div>
   </header>
@@ -74,12 +70,32 @@
         <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
         <nav class="breadcrumbs">
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href={{ url("/kontraktor") }} target="_blank">Home</a></li>
             <li class="current">Starter Page</li>
           </ol>
         </nav>
       </div>
     </div><!-- End Page Title -->
+
+     {{-- Start pricelist --}}
+    <section id="pricing" class="pricing section">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Harga</h2>
+          <p>Informasi Untuk <span>selengkapnya</span></p>
+        </div>
+
+        <div class="row gy-4">
+          <div>
+            <img src="assets/img/pricelist/1.png" class="img-fluid" alt=""></i>
+          </div>
+          </div>
+
+          <!-- Add more pricing items as needed -->
+
+        </div>
+
+      </div>
 
     <!-- Starter Section Section -->
     <section id="starter-section" class="starter-section section">
