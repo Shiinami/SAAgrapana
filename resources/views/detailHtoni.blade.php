@@ -68,7 +68,7 @@
                     kualitas tinggi.</p>
                 <nav class="breadcrumbs">
                     <ol>
-                        <li><a href="/coba">Beranda</a></li>
+                        <li><a href="{{ route('home') }}">Beranda</a></li>
                         <li class="current">Projeck View</li>
                     </ol>
                 </nav>

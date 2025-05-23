@@ -65,7 +65,7 @@
                 <h1 style="font-size:70px;">Pricelist Agrapana</h1>
                 <nav class="breadcrumbs">
                     <ol>
-                        <li><a href={{ url('/kontraktor') }} target="_blank">Home</a></li>
+                        <li><a href={{ route('home') }} target="_blank">Home</a></li>
                         <li class="current">Starter Page</li>
                     </ol>
                 </nav>
@@ -144,10 +144,7 @@
                 </footer>
 
                 <div class="credits">
-                    <!-- All the links in the footer should remain intact. -->
-                    <!-- You can delete the links only if you've purchased the pro version. -->
-                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                    <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+
 
                 </div>
             </div>

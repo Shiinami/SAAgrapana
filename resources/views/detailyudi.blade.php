@@ -29,13 +29,7 @@
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: KnightOne
-  * Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-  * Updated: Oct 16 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body class="portfolio-details-page">
@@ -74,7 +68,7 @@
                     kualitas tinggi.</p>
                 <nav class="breadcrumbs">
                     <ol>
-                        <li><a href="/coba">Beranda</a></li>
+                        <li><a href="{{ route('home') }}">Beranda</a></li>
                         <li class="current">Projeck View</li>
                     </ol>
                 </nav>
