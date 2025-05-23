@@ -45,12 +45,12 @@
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
-                    <li><a href="#">Blog</a></li>
+
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-            <a class="cta-btn" href="{{ route('home') }}#contact">Get Started</a>
+           
 
         </div>
     </header>

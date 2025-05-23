@@ -9,7 +9,7 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/Sila Agug Agrapana.jpg" rel="icon">
     <link href="assets/img/favicon.png" rel="apple-touch-icon">
 
     <!-- Fonts -->
@@ -30,13 +30,7 @@
     <!-- Main CSS File -->
     <link href="assets/css/main.css" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: KnightOne
-  * Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-  * Updated: Oct 16 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body class="starter-page-page">
@@ -52,12 +46,10 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                    <li><a href="C:\Bintangnovala\Project\SAAgrapana\resources\views\kontraktor.blade.php"
-                            class="active">Beranda</a></li>
-                    <li><a href="#about">Kontruksi</a></li>
-                    <li><a href="#pricing">pricelist</a></li>
-                    <li><a href="#/custom">Tentang kami</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                   <li><a href="{{ route('home') }}">Beranda</a></li>
+                    <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
+                    <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
+                    <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -68,7 +60,7 @@
     <main class="main">
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
-            style="background-image: url(assets/img/page-title-bg.webp);">
+            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp); ">
             <div class="container position-relative">
                 <h1 style="font-size:70px;">PT. Sila Agung Agrapana</h1>
                 <nav class="breadcrumbs">
@@ -193,14 +185,14 @@
                     <!-- Kolom kanan: tombol dan deskripsi -->
                     <div class="col-lg-6 d-flex justify-content-end">
                         <div class="d-flex align-items-center">
-                            <a href="https://www.youtube.com/watch?v=2g8v0q3X4aE"
+                            <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
                                 class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
                                 style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
                                 Hubungi Kami
                             </a>
                             <div>
                                 <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
-                                <p class="mb-0" style="font-size: 1.5rem;">0812-3456-7890 (admin)<br></p>
+                                <p href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi." class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
                             </div>
                         </div>
                     </div>
