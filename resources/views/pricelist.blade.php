@@ -80,49 +80,56 @@
           <p>Informasi Untuk <span>selengkapnya</span></p>
         </div> --}}
 
-                <div class="row gy-4">
+                {{-- <div class="row gy-4">
                     <div class="d-flex justify-content-center">
                         <img src="assets/img/pricelist/1.webp" class="img-fluid" alt=""
-                            style="max-width:916px; height:auto;">
+                            style="max-width:916px; height:auto;"> --}}
+                {{-- </div>
+            </div><br> --}}
+
+                <img src="/assets/img/pricelist/1.webp" alt="Brosur Sila Agung Agrapana" data-aos="fade-up"
+                    data-aos-delay="100"
+                    style="max-width: 1000px; width: 100%; height: auto; display: block; margin: 0 auto;"
+                    loading="lazy">
+
+                    <br><br>
+
+                <img src="/assets/img/pricelist/2.webp" alt="Brosur Sila Agung Agrapana" data-aos="fade-up"
+                    data-aos-delay="100"
+                    style="max-width: 1000px; width: 100%; height: auto; display: block; margin: 0 auto;"
+                    loading="lazy">
                     </div>
                 </div><br>
 
-                <div class="row gy-4">
-                    <div class="d-flex justify-content-center">
-                        <img src="assets/img/pricelist/2.webp" class="img-fluid" alt=""
-                            style="max-width:916px; height:auto;">
-                    </div>
-                </div><br>
-
-            <!-- Starter Section -->
-            <section id="starter-section" class="starter-section section">
-                <div class="container" data-aos="fade-up">
-                    <div class="row gy-4 align-items-center">
-                        <!-- Kolom kiri: content text -->
-                        <div class="col-lg-6">
-                            <h3 style="font-weight:bold;">Kenapa Memilih PT. Sila Agung Agrapana?</h3><br>
-                            <p style="font-size: 1.1rem;">
-                                Kami adalah solusi terbaik untuk kebutuhan konstruksi dan arsitektur Anda.<br>
-                                Berpengalaman, profesional, dan mengutamakan kepuasan pelanggan.
-                            </p>
-                        </div>
-                        <!-- Kolom kanan: tombol dan deskripsi -->
-                        <div class="col-lg-6 d-flex justify-content-end">
-                            <div class="d-flex align-items-center">
-                                <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
-                                    class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
-                                    style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
-                                    Hubungi Kami
-                                </a>
-                                <div>
-                                    <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
-                                    <p class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
+                <!-- Starter Section -->
+                <section id="starter-section" class="starter-section section">
+                    <div class="container" data-aos="fade-up">
+                        <div class="row gy-4 align-items-center">
+                            <!-- Kolom kiri: content text -->
+                            <div class="col-lg-6">
+                                <h3 style="font-weight:bold;">Kenapa Memilih PT. Sila Agung Agrapana?</h3><br>
+                                <p style="font-size: 1.1rem;">
+                                    Kami adalah solusi terbaik untuk kebutuhan konstruksi dan arsitektur Anda.<br>
+                                    Berpengalaman, profesional, dan mengutamakan kepuasan pelanggan.
+                                </p>
+                            </div>
+                            <!-- Kolom kanan: tombol dan deskripsi -->
+                            <div class="col-lg-6 d-flex justify-content-end">
+                                <div class="d-flex align-items-center">
+                                    <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
+                                        class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
+                                        style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
+                                        Hubungi Kami
+                                    </a>
+                                    <div>
+                                        <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
+                                        <p class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section><!-- /Starter Section -->
+                </section><!-- /Starter Section -->
 
     </main>
 
