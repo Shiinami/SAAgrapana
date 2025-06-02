@@ -1837,9 +1837,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
 /*--------------------------------------------------------------
 # Blog Posts Section
@@ -2441,4 +2438,140 @@ section,
   font-size: 16px;
   color: #ffcc53; /* kuning */
   margin: 10px 0;
+}
+
+
+/* Container untuk tombol, jika perlu untuk positioning */
+.outher-project-button-wrapper {
+    display: flex;
+    justify-content: center; /* Sesuaikan sesuai kebutuhan positioning */
+    margin-top: 30px; /* Contoh jarak dari elemen di atasnya */
+}
+
+/* Gaya Tombol Premium */
+.outher-project-button-premium {
+    /* Latar Belakang Gradient yang Dinamis */
+    background: linear-gradient(135deg, #ffcc53 0%, #000000 100%); /* Contoh gradien dari merah muda ke kuning */
+    background-size: 100% 100%; /* Ukuran background lebih besar dari tombol untuk efek animasi */
+    transition: background-position 0.6s ease, transform 0.3s ease, box-shadow 0.3s ease;
+
+    color: white;
+    padding: 0.5em 1.5em; /* Padding responsif */
+    border: none;
+    border-radius: 50px; /* Sangat membulat, gaya 'pill' */
+    cursor: pointer;
+    font-size: 1.1rem; /* Ukuran font lebih besar */
+    font-weight: bold;
+    letter-spacing: 0.05em; /* Jarak antar huruf */
+    text-transform: uppercase; /* Huruf kapital semua */
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2); /* Bayangan teks halus */
+
+    /* Bayangan Halus dan Responsif */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+
+    /* Animasi saat Hover */
+    &:hover {
+        background-position: 100% 0%; /* Menggeser gradien saat dihover */
+        transform: translateY(-5px) scale(1.02); /* Sedikit terangkat dan membesar */
+        box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3); /* Bayangan lebih kuat */
+    }
+
+    /* Efek saat Diklik */
+    &:active {
+        transform: translateY(-2px) scale(0.98); /* Sedikit tenggelam saat diklik */
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+}
+
+/* Responsivitas untuk Layar Kecil */
+@media (max-width: 768px) {
+    .outher-project-button-premium {
+        font-size: 1rem; /* Sedikit lebih kecil di tablet */
+        padding: 0.8em 1.5em; /* Padding disesuaikan */
+        border-radius: 40px; /* Sedikit kurang membulat */
+    }
+}
+
+@media (max-width: 480px) {
+    .outher-project-button-premium {
+        font-size: 0.9rem; /* Lebih kecil lagi di mobile */
+        padding: 0.7em 1.2em;
+        border-radius: 30px;
+        width: 90%; /* Mengambil sebagian besar lebar di mobile */
+        box-sizing: border-box; /* Pastikan padding disertakan dalam lebar */
+    }
+}
+/* Responsive base font */
+html {
+    font-size: 16px;
+}
+@media (max-width: 768px) {
+    html {
+        font-size: 15px;
+    }
+}
+@media (max-width: 480px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+/* SECTION: Gallery / Portfolio */
+.portfolio-section {
+  background-color: #000000;
+  color: white;
+  padding: 60px 20px;
+}
+
+.portfolio-header {
+  max-width: 1200px;
+  margin: 0 auto 40px;
+  text-align: left; /* ini penting untuk geser ke kiri */
+}
+
+.portfolio-header h3 {
+  font-weight: 400;
+  margin-bottom: 5px;
+  color: #aaa;
+}
+
+.portfolio-header h1 {
+  font-size: 36px;
+  margin: 10px 0;
+  color: #ffcc53;
+}
+
+.portfolio-header .line {
+  width: 60px;
+  height: 4px;
+  background-color: #ffffff;
+  margin: 20px 0;
+}
+
+.portfolio-header p {
+  font-size: 16px;
+  max-width: 700px;
+  margin-top: 0;
+  color: #dddddd;
+}
+
+/* Grid Gambar */
+.portfolio-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.portfolio-gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s;
+}
+
+.portfolio-gallery img:hover {
+  transform: scale(1.03);
 }
