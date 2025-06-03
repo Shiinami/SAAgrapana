@@ -73,65 +73,152 @@
         </div><!-- End Page Title -->
 
         {{-- Start pricelist --}}
-        <section id="pricing" class="pricing section">
-            <div class="container" data-aos="fade-up">
-                {{-- <div class="section-header">
-          <h2>Harga</h2>
-          <p>Informasi Untuk <span>selengkapnya</span></p>
-        </div> --}}
+        <!-- Start Pricelist Section -->
+        <div class="container" data-aos="fade-up" style="margin-top: 40px; margin-bottom: 40px;">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <h2 class="fw-bold mb-2 text-center" style="font-size:2.8rem;">Daftar Harga PT. Sila Agung Agrapana
+                    </h2>
+                    <h5 class="mb-4 text-center" style="color:#ccc; font-weight:400;">Transparan & Kompetitif untuk
+                        Setiap Layanan</h5>
+                    <p class="fst-italic mb-4 text-center" style="color:#ff6f00;">
+                        <b>Kami menawarkan harga terbaik untuk setiap kebutuhan konstruksi dan arsitektur Anda, dengan
+                            layanan profesional dan hasil berkualitas tinggi.</b>
+                    </p>
+                    <div class="row">
+                        <div class="col-md-6 mb-4">
+                            <div class="p-4 h-100" style="background:#222; border-radius:12px;">
+                                <div class="row align-items-center">
+                                    <div class="col-8">
+                                        <h4 class="fw-bold text-white mb-3">Paket Lite</h4>
+                                        <ul class="text-white-50 mb-3" style="list-style: disc inside;">
+                                            <li>Gambar Denah 2D</li>
+                                            <li>Gambar Denah 3D</li>
+                                            <li>Render Denah 3D ( 2 gambar )</li>
+                                            <li>View 3D Non Render ( 5 view)</li>
+                                            <li>Render Exterior ( 3 ganbar )</li>
+                                            <li>Detail Tampak + Potongan</li>
+                                            <li>Harga per 3x Revisi Minor</li>
+                                            <br> <br> <br> <br> <br>
+                                        </ul>
+                                        <div class="fw-bold text-warning" style="font-size:1.5rem;">Start Rp 25.000
 
-                {{-- <div class="row gy-4">
-                    <div class="d-flex justify-content-center">
-                        <img src="assets/img/pricelist/1.webp" class="img-fluid" alt=""
-                            style="max-width:916px; height:auto;"> --}}
-                {{-- </div>
-            </div><br> --}}
-
-                <img src="/assets/img/pricelist/1.webp" alt="Brosur Sila Agung Agrapana" data-aos="fade-up"
-                    data-aos-delay="100"
-                    style="max-width: 1000px; width: 100%; height: auto; display: block; margin: 0 auto;"
-                    loading="lazy">
-
-                    <br><br>
-
-                <img src="/assets/img/pricelist/2.webp" alt="Brosur Sila Agung Agrapana" data-aos="fade-up"
-                    data-aos-delay="100"
-                    style="max-width: 1000px; width: 100%; height: auto; display: block; margin: 0 auto;"
-                    loading="lazy">
-                    </div>
-                </div><br>
-
-                <!-- Starter Section -->
-                <section id="starter-section" class="starter-section section">
-                    <div class="container" data-aos="fade-up">
-                        <div class="row gy-4 align-items-center">
-                            <!-- Kolom kiri: content text -->
-                            <div class="col-lg-6">
-                                <h3 style="font-weight:bold;">Kenapa Memilih PT. Sila Agung Agrapana?</h3><br>
-                                <p style="font-size: 1.1rem;">
-                                    Kami adalah solusi terbaik untuk kebutuhan konstruksi dan arsitektur Anda.<br>
-                                    Berpengalaman, profesional, dan mengutamakan kepuasan pelanggan.
-                                </p>
+                                            /m<sup>2</sup></div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <img src="assets\img\paket\paket lite.png" alt="Paket Lite"
+                                            style="max-width: 150px; border-radius:8px;">
+                                    </div>
+                                </div>
                             </div>
-                            <!-- Kolom kanan: tombol dan deskripsi -->
-                            <div class="col-lg-6 d-flex justify-content-end">
-                                <div class="d-flex align-items-center">
-                                    <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
-                                        class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
-                                        style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
-                                        Hubungi Kami
-                                    </a>
-                                    <div>
-                                        <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
-                                        <p class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
+                        </div>
+                        <div class="col-md-6 mb-4">
+                            <div class="p-4 h-100" style="background:#222; border-radius:12px;">
+                                <div class="row align-items-center">
+                                    <div class="col-8">
+                                        <h4 class="fw-bold text-white mb-3">Paket Medium</h4>
+                                        <ul class="text-white-50 mb-3" style="list-style: disc inside;">
+                                            <li>Gambar Denah 2D</li>
+                                            <li>Gambar Denah 3D</li>
+                                            <li>Render Denah 3D ( 2 gambar )</li>
+                                            <li>View 3D Non Render ( 5 view)</li>
+                                            <li>Render Exterior ( 3 ganbar )</li>
+                                            <li>Detail Tampak + Potongan</li>
+                                            <li>Harga per 3x Revisi Minor</li>
+                                            <li>Instalasi pumbling</li>
+                                            <li>Instalasi listrik</li>
+                                            <li>Detail pintu & jendela</li>
+                                            <li>Detail pintu & jendela</li>
+                                            <li>Harga per 3x revisi minor </li>
+                                        </ul>
+                                        <div class="fw-bold text-warning" style="font-size:1.5rem;">Mulai Rp 50.000
+                                            /m<sup>2</sup></div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <img src="assets/img/paket/paket medium.jpg" alt="Paket Medium"
+                                            style="max-width: 160px; border-radius:8px;">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </section><!-- /Starter Section -->
-
+                    <!-- Centered Advance Package -->
+                    <div class="row justify-content-center">
+                        <div class="col-md-6 mb-4 mx-auto">
+                            <div class="p-4 h-100" style="background:#222; border-radius:12px;">
+                                <div class="row align-items-center">
+                                    <div class="col-8">
+                                        <h4 class="fw-bold text-white mb-3">Paket Advance </h4>
+                                        <ul class="text-white-50 mb-3" style="list-style: disc inside;">
+                                            <li>Gambar Denah 2D</li>
+                                            <li>Gambar Denah 3D</li>
+                                            <li>Render Denah 3D ( 2 gambar )</li>
+                                            <li>View 3D Non Render ( 5 view)</li>
+                                            <li>Render Exterior ( 3 ganbar )</li>
+                                            <li>Detail Tampak + Potongan</li>
+                                            <li>Harga per 3x Revisi Minor</li>
+                                            <li>Instalasi pumbling</li>
+                                            <li>Instalasi listrik</li>
+                                            <li>Detail pintu & jendela</li>
+                                            <li>Detail pintu & jendela</li>
+                                            <li>Harga per 3x revisi minor </li>
+                                            <li>RAB</li>
+                                        </ul>
+                                        <div class="fw-bold text-warning" style="font-size:1.5rem;">Start Rp 75.000
+                                            /m<sup>2</sup></div>
+                                    </div>
+                                    <div class="col-4 text-end">
+                                        <img src="assets/img/paket/paket advance.jpg" alt="Paket Advance"
+                                            style="max-width: 160px; border-radius:8px; margin-top: -100px;">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="mt-4 fst-italic text-center" style="color:#888; ">
+                <b>Hubungi kami untuk konsultasi & penawaran khusus proyek Anda!</b>
+            </p>
+        </div><br>
+        <div>
+            <img src="assets/img/pricelist/3.png" alt="Paket Akhir"
+                style="max-width: 100%; width: 50%; border-radius:8px; margin-top: -50px; margin-bottom: 20px; justify-content: center; display: block; margin-left: auto; margin-right: auto;">
+        </div>
+        <!-- End Pricelist Section -->
+        <p class="mt-4 fst-italic text-center" style="color:#888; ">
+            <b>Hubungi kami untuk konsultasi & penawaran khusus proyek Anda!</b>
+        </p>
     </main>
+
+    <section id="starter-section" class="starter-section section">
+        <div class="container" data-aos="fade-up">
+            <div class="row gy-4 align-items-center">
+                <!-- Kolom kiri: content text -->
+                <div class="col-lg-6">
+                    <h3 style="font-weight:bold;">Kenapa Memilih PT. Sila Agung Agrapana?</h3><br>
+                    <p style="font-size: 1.1rem;">
+                        Kami adalah solusi terbaik untuk kebutuhan konstruksi dan arsitektur Anda.<br>
+                        Berpengalaman, profesional, dan mengutamakan kepuasan pelanggan.
+                    </p>
+                </div>
+                <!-- Kolom kanan: tombol dan deskripsi -->
+                <div class="col-lg-6 d-flex justify-content-end">
+                    <div class="d-flex align-items-center">
+                        <a href="https://www.youtube.com/watch?v=2g8v0q3X4aE"
+                            class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
+                            style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
+                            Hubungi Kami
+                        </a>
+                        <div>
+                            <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
+                            <p class="mb-0" style="font-size: 1.5rem;">0812-3456-7890 (admin)<br></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section><!-- /Starter Section -->
 
     <footer id="footer" class="footer dark-background">
         <div class="container">
