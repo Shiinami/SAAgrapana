@@ -39,7 +39,7 @@
 
             <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/saaaaa.png" alt="">
+                <!-- <img src="assets/img/logo.png" alt=""> -->
                 <h1 class="sitename">PT. Sila Agung Agrapana</h1>
             </a>
 
@@ -61,7 +61,7 @@
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
-            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp);">
+            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp); ">
             <div class="container position-relative">
                 <h1>Project View</h1>
                 <p>Menampilkan hasil karya terbaik kami dalam merancang dan membangun hunian impian dengan presisi dan
@@ -74,9 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
-        <!-- Portfolio Details Section -->
-        <section id="portfolio-details" class="portfolio-details section">
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,14 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/fbc37bd3-2287-40ab-8a70-770eed8747a3.png" alt="">
+                            <img src="assets/img/blog/3386758c-13ad-4516-8ad2-a857c3fb4384.jpeg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/eaaf70bf-b5c1-4789-b8de-0d3478dc91a4.png" alt="">
+                            <img src="assets/img/blog/b3848d48-f59c-46c8-8390-2169f5c401e3.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/f79b50b2-5d50-44c7-bb1b-89d0a75b89fc.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/622eb291-1382-459a-9900-ba3338886db5.png" alt="">
-                        </div>
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,37 +122,19 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Dr. Yudi Fadillah — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Perumahan Pluit Samudra – Mewujudkan Hunian Modern, Keahlian Kami dalam Setiap Lantainya!</h2>
                             <p>
-                                sebuah karya arsitektur modern yang memadukan estetika elegan dengan fungsionalitas
-                                maksimal. Dirancang untuk memenuhi kebutuhan keluarga urban, rumah ini menawarkan tata
-                                ruang yang optimal, pencahayaan alami yang melimpah, serta sentuhan desain kontemporer
-                                yang timeless.
+Dengan bangga kami persembahkan salah satu proyek hunian vertikal modern yang telah sukses kami tangani: Perumahan Pluit Samudra! Proyek ini adalah bukti nyata komitmen dan kapabilitas kami dalam menciptakan hunian yang tidak hanya efisien dalam penggunaan lahan, tetapi juga memancarkan estetika kontemporer dan memberikan kenyamanan maksimal bagi penghuninya di tengah dinamisnya kehidupan kota.
                             </p>
                             <p>
-                                Setiap detail dalam proyek ini dikerjakan dengan presisi tinggi, mulai dari pemilihan
-                                material berkualitas premium hingga finishing yang sempurna, mencerminkan komitmen kami
-                                terhadap kepuasan klien. Struktur bangunan yang kokoh dipadukan dengan elemen desain
-                                ramah lingkungan, seperti ventilasi alami dan penggunaan material berkelanjutan,
-                                menjadikan rumah ini tidak hanya indah tetapi juga nyaman untuk ditinggali dalam jangka
-                                panjang.
+Perumahan Pluit Samudra menampilkan deretan rumah tapak vertikal atau town house modern yang dirancang dengan cermat. Fasad yang bersih dan modern, perpaduan warna netral dengan aksen biru yang menawan pada jendela, serta jendela-jendela besar yang membentang dari lantai ke lantai, menciptakan tampilan yang elegan dan memaksimalkan masuknya cahaya alami. Desain ini sangat cocok untuk gaya hidup perkotaan yang menginginkan efisiensi ruang tanpa mengorbankan gaya.
                             </p>
-
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bi bi-quote quote-icon-left"></i>
-                                    <span>“Mewujudkan rumah impian adalah sebuah perjalanan kreatif yang luar biasa.
-                                        Kami berhasil menciptakan ruang yang tidak hanya mencerminkan kepribadian klien,
-                                        tetapi juga memberikan kenyamanan dan kehangatan bagi keluarga”</span>
-                                    <i class="bi bi-quote quote-icon-right"></i>
-                                </p>
-
-                            </div>
-
                             <p>
-                                Proyek ini adalah bukti nyata bagaimana kami menggabungkan visi klien dengan keahlian
-                                arsitektur untuk menciptakan ruang hidup yang inspiratif dan fungsional.
+Sebagai penyedia jasa desain dan konstruksi terkemuka, kami telah mengaplikasikan standar kualitas tertinggi dalam setiap tahapan pembangunan Perumahan Pluit Samudra ini. Dari perencanaan tata ruang yang cerdas untuk setiap unit, pemilihan material yang kokoh dan tahan lama, hingga eksekusi pembangunan yang presisi dan tepat waktu, kami memastikan setiap detail dikerjakan dengan sempurna. Keberhasilan proyek ini adalah cerminan dedikasi kami dalam memberikan solusi hunian modern yang unggul.
                             </p>
+
+
+
 
 
 

@@ -39,7 +39,7 @@
 
             <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/saaaaa.png" alt="">
+                <!-- <img src="assets/img/logo.png" alt=""> -->
                 <h1 class="sitename">PT. Sila Agung Agrapana</h1>
             </a>
 
@@ -61,7 +61,7 @@
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
-            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp);">
+            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp); ">
             <div class="container position-relative">
                 <h1>Project View</h1>
                 <p>Menampilkan hasil karya terbaik kami dalam merancang dan membangun hunian impian dengan presisi dan
@@ -74,9 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
-        <!-- Portfolio Details Section -->
-        <section id="portfolio-details" class="portfolio-details section">
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,20 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/fbc37bd3-2287-40ab-8a70-770eed8747a3.png" alt="">
+                            <img src="assets/img/blog/jifgwttttttt50689erpig2354235.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/eaaf70bf-b5c1-4789-b8de-0d3478dc91a4.png" alt="">
+                            <img src="assets/img/blog/LSJKDGH89HEHH.jpg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/f79b50b2-5d50-44c7-bb1b-89d0a75b89fc.png" alt="">
+                            <img src="assets/img/blog/ED5HS98YHGIDFG.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/img/blog/SUAWGH4W387TGHDWG.jpg" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/622eb291-1382-459a-9900-ba3338886db5.png" alt="">
-                        </div>
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,37 +128,19 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Dr. Yudi Fadillah — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Rumah Ibu Azza – Harmoni Desain Modern Minimalis </h2>
                             <p>
-                                sebuah karya arsitektur modern yang memadukan estetika elegan dengan fungsionalitas
-                                maksimal. Dirancang untuk memenuhi kebutuhan keluarga urban, rumah ini menawarkan tata
-                                ruang yang optimal, pencahayaan alami yang melimpah, serta sentuhan desain kontemporer
-                                yang timeless.
+Hadirkan kehidupan impian Anda di Rumah Ibu Azza, sebuah hunian istimewa yang memancarkan pesona modern minimalis, dirancang untuk kenyamanan maksimal dan estetika yang tak lekang oleh waktu. Dengan proses pembangunan yang cermat, rumah ini akan segera menjadi perwujudan sempurna dari rumah idaman Anda.
                             </p>
                             <p>
-                                Setiap detail dalam proyek ini dikerjakan dengan presisi tinggi, mulai dari pemilihan
-                                material berkualitas premium hingga finishing yang sempurna, mencerminkan komitmen kami
-                                terhadap kepuasan klien. Struktur bangunan yang kokoh dipadukan dengan elemen desain
-                                ramah lingkungan, seperti ventilasi alami dan penggunaan material berkelanjutan,
-                                menjadikan rumah ini tidak hanya indah tetapi juga nyaman untuk ditinggali dalam jangka
-                                panjang.
+Dari gambar rancangan yang menawan, terlihat bahwa Rumah Ibu Azza mengusung desain yang bersih dan fungsional. Atap pelana yang ikonik memberikan sentuhan klasik yang berpadu apik dengan garis-garis modern yang tegas. Fasad yang sederhana namun elegan dipercantik dengan aksen dinding bertekstur dan pencahayaan yang optimal, menciptakan kesan hangat dan ramah.
+                            </p>
+<p>
+Fitur-fitur seperti carport yang terintegrasi dengan baik dan area teras depan yang menawan dengan kanopi transparan, tidak hanya menambah fungsionalitas tetapi juga memperkaya tampilan visual rumah. Setiap detail dirancang untuk memaksimalkan penggunaan ruang dan cahaya alami, memastikan hunian yang nyaman, terang, dan efisien energi.
                             </p>
 
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bi bi-quote quote-icon-left"></i>
-                                    <span>“Mewujudkan rumah impian adalah sebuah perjalanan kreatif yang luar biasa.
-                                        Kami berhasil menciptakan ruang yang tidak hanya mencerminkan kepribadian klien,
-                                        tetapi juga memberikan kenyamanan dan kehangatan bagi keluarga”</span>
-                                    <i class="bi bi-quote quote-icon-right"></i>
-                                </p>
 
-                            </div>
 
-                            <p>
-                                Proyek ini adalah bukti nyata bagaimana kami menggabungkan visi klien dengan keahlian
-                                arsitektur untuk menciptakan ruang hidup yang inspiratif dan fungsional.
-                            </p>
 
 
 

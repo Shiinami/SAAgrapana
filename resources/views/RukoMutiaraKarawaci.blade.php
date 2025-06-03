@@ -39,7 +39,7 @@
 
             <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
                 <!-- Uncomment the line below if you also wish to use an image logo -->
-                <img src="assets/img/saaaaa.png" alt="">
+                <!-- <img src="assets/img/logo.png" alt=""> -->
                 <h1 class="sitename">PT. Sila Agung Agrapana</h1>
             </a>
 
@@ -61,7 +61,7 @@
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
-            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp);">
+            style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp); ">
             <div class="container position-relative">
                 <h1>Project View</h1>
                 <p>Menampilkan hasil karya terbaik kami dalam merancang dan membangun hunian impian dengan presisi dan
@@ -74,9 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
-        <!-- Portfolio Details Section -->
-        <section id="portfolio-details" class="portfolio-details section">
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,15 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/fbc37bd3-2287-40ab-8a70-770eed8747a3.png" alt="">
+                            <img src="assets/img/blog/hhhhhhhhhhhhhhhhrge3e3t578w9herg.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/eaaf70bf-b5c1-4789-b8de-0d3478dc91a4.png" alt="">
+                            <img src="assets/img/blog/SAEGBHWE8934G.jpg" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/f79b50b2-5d50-44c7-bb1b-89d0a75b89fc.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/622eb291-1382-459a-9900-ba3338886db5.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,37 +123,20 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Dr. Yudi Fadillah — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko Mutiara Karawaci – Investasi Bisnis Cemerlang dengan Sentuhan Desain Profesional Kami!</h2>
                             <p>
-                                sebuah karya arsitektur modern yang memadukan estetika elegan dengan fungsionalitas
-                                maksimal. Dirancang untuk memenuhi kebutuhan keluarga urban, rumah ini menawarkan tata
-                                ruang yang optimal, pencahayaan alami yang melimpah, serta sentuhan desain kontemporer
-                                yang timeless.
+Ruko Mutiara Karawaci. Proyek ini adalah bukti nyata komitmen kami dalam menghadirkan solusi desain dan pembangunan ruko yang tidak hanya fungsional, tetapi juga memiliki daya tarik visual yang kuat, siap mendukung kesuksesan bisnis Anda.
                             </p>
                             <p>
-                                Setiap detail dalam proyek ini dikerjakan dengan presisi tinggi, mulai dari pemilihan
-                                material berkualitas premium hingga finishing yang sempurna, mencerminkan komitmen kami
-                                terhadap kepuasan klien. Struktur bangunan yang kokoh dipadukan dengan elemen desain
-                                ramah lingkungan, seperti ventilasi alami dan penggunaan material berkelanjutan,
-                                menjadikan rumah ini tidak hanya indah tetapi juga nyaman untuk ditinggali dalam jangka
-                                panjang.
+Ruko Mutiara Karawaci didesain untuk menjadi pusat aktivitas komersial yang dinamis dan modern. bagaimana fasad ruko ini memancarkan aura profesionalisme dengan sentuhan warna-warna cerah yang unik pada setiap unitnya, memberikan identitas yang kuat dan menarik perhatian. Jendela-jendela besar dirancang untuk memaksimalkan pencahayaan alami, menciptakan interior yang terang dan nyaman, ideal untuk berbagai jenis usaha.
                             </p>
-
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bi bi-quote quote-icon-left"></i>
-                                    <span>“Mewujudkan rumah impian adalah sebuah perjalanan kreatif yang luar biasa.
-                                        Kami berhasil menciptakan ruang yang tidak hanya mencerminkan kepribadian klien,
-                                        tetapi juga memberikan kenyamanan dan kehangatan bagi keluarga”</span>
-                                    <i class="bi bi-quote quote-icon-right"></i>
-                                </p>
-
-                            </div>
-
                             <p>
-                                Proyek ini adalah bukti nyata bagaimana kami menggabungkan visi klien dengan keahlian
-                                arsitektur untuk menciptakan ruang hidup yang inspiratif dan fungsional.
+Sebagai penyedia jasa desain dan konstruksi, kami telah merampungkan proyek ini dengan standar kualitas tertinggi. Dari perencanaan awal hingga eksekusi detail, setiap langkah telah kami tangani dengan cermat untuk memastikan ruko ini siap beroperasi dan memberikan nilai tambah maksimal bagi para pemiliknya. Kehadiran Ruko Mutiara Karawaci adalah cerminan dedikasi kami dalam mewujudkan visi klien menjadi realitas yang menguntungkan.
                             </p>
+
+
+
+
 
 
 
