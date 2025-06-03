@@ -50,6 +50,8 @@
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
+                    <li><a href="{{ route('outher-project') }}">Other Project</a></li>
+
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -182,7 +184,7 @@
             </p>
         </div><br>
         <div>
-            <img src="assets/img/pricelist/3.png" alt="Paket Akhir"
+            <img src="assets/img/pricelist/4.png" alt="Paket Akhir"
                 style="max-width: 100%; width: 50%; border-radius:8px; margin-top: -50px; margin-bottom: 20px; justify-content: center; display: block; margin-left: auto; margin-right: auto;">
         </div>
         <!-- End Pricelist Section -->
@@ -205,14 +207,14 @@
                 <!-- Kolom kanan: tombol dan deskripsi -->
                 <div class="col-lg-6 d-flex justify-content-end">
                     <div class="d-flex align-items-center">
-                        <a href="https://www.youtube.com/watch?v=2g8v0q3X4aE"
+                        <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
                             class="btn btn-color-primary btn-style-default btn-style-round btn-size-large wd-open-popup me-3"
                             style="background-color: #ffcc53; min-width: 160px; font-weight: 500;">
                             Hubungi Kami
                         </a>
                         <div>
                             <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
-                            <p class="mb-0" style="font-size: 1.5rem;">0812-3456-7890 (admin)<br></p>
+                            <p class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
                         </div>
                     </div>
                 </div>

@@ -45,17 +45,7 @@
                 <h1 class="sitename">Sila Agung Agrapana</h1>
             </a>
 
-      <nav id="navmenu" class="navmenu">
-        <ul>
-          <li><a href="#hero" class="active">Beranda</a></li>
-          <li><a href="#about">Kontruksi</a></li>
-          <li><a href="#pricing">pricelist</a></li>
-          <li><a href="#">Tentang Kami</a></li>
 
-
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
             <nav id="navmenu" class="navmenu">
                 <ul>
                     <li><a href="{{ route('home') }}">Beranda</a></li>
@@ -63,7 +53,7 @@
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
 
-                    <li><a href="{{ route('outher-project') }}">Outher Project</a></li>
+                    <li><a href="{{ route('outher-project') }}">Other Project</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -156,14 +146,7 @@
                     </div>
                 </div>
 
-            <div class="container d-flex flex-column align-items-center text-center">
-                <h2 data-aos="fade-up" data-aos-delay="100">General Contractors
-                    Design & Build</h2>
-                <p data-aos="fade-up" data-aos-delay="200">Wujudkan rumah impian bersama Sila Agung Agrapana.
-                    Membangun dan Renovasi bangunan dengan Mudah.</p>
-                <div data-aos="fade-up" data-aos-delay="300">
-                </div>
-            </div>
+            
 
         </section><!-- /Call To Action Section -->
 
@@ -431,7 +414,7 @@
                                             <li>Kusen Alumunium</li>
                                             <li>Atap Baja Ringan</li>
                                             <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
+                                            <li>Cat Jotun/Setara</li>
                                             <li>Tinggi plafond +/- 3,5 m</li>
                                             <li>-</li>
                                             <li>-</li>
@@ -445,7 +428,7 @@
                                             <li>Kusen Alumunium</li>
                                             <li>Atap Baja Ringan</li>
                                             <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
+                                            <li>Cat Jotun/Setara</li>
                                             <li>Tinggi Plafond +/- 3.2 meter</li>
                                             <li>-</li>
                                             <li>-</li>
@@ -789,387 +772,7 @@
 
     </main>
 
-    <footer id="footer" class="footer dark-background"
-        style="margin-top:60px; padding-top:20px; padding-bottom:10px;">
-        <div class="container" style="max-width: 900px;">
-            <div class="copyright text-center" style="font-size: 15px;">
-                <span>Perusahaan</span> <strong class="px-1 sitename">PT Sila Agung Agrapana</strong>
-                <span>2025</span>
-            </div>
-            <div class="credits text-center" style="font-size: 13px;">
-                Jasa : <a href="#hero">Kontuksi Dan Arsitektur</a>
-            </div>
-        </div>
 
-    </footer>
-
-                </div>
-
-            </section><!-- /Faq Section -->
-
-            <!-- Pricing Section -->
-            <section id="pricing" class="pricing section light-background">
-
-                <!-- Section Title -->
-                <div class="container section-title" data-aos="fade-up">
-                    <h2>JASA KONSTRUKSI</h2>
-                    <p>Kosultasikan Gratis dengan kami berapapun anggaran anda. Kami akan memberikan saran dan
-                        pertimbangan yang tepat.</p>
-                </div><!-- End Section Title -->
-
-                <div class="container">
-                    <div class="row gy-4">
-
-                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                            <div class="pricing-item">
-                                <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan"
-                                    style="width: 70%; border-radius: 10px 10px 0 0;">
-                                <h3>Model 1</h3>
-                                <span>mulai dari </span>
-                                <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
-
-                                <!-- Label Dinamis -->
-                                <div class="grade-label" id="free-grade">L.1 Grade A</div>
-
-                                <!-- Tabs -->
-                                <ul class="nav nav-tabs" id="freeTab" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="free1-tab" data-bs-toggle="tab"
-                                            data-bs-target="#free1" type="button" role="tab">Grade A</button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="free2-tab" data-bs-toggle="tab"
-                                            data-bs-target="#free2" type="button" role="tab">Grade B</button>
-                                    </li>
-                                </ul>
-
-                                <!-- Tab Content -->
-                                <div class="tab-content" id="freeTabContent">
-                                    <div class="tab-pane fade show active" id="free1" role="tabpanel">
-                                        <ul id="gradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Tinggi Plafond 4 Meter</li>
-                                            <li>-</li>
-                                            <li>-</li>
-                                        </ul>
-                                    </div>
-                                    <div class="tab-pane fade" id="free2" role="tabpanel">
-                                        <ul id="gradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Tinggi Plafond 3.75 Meter</li>
-                                            <li>-</li>
-                                            <li>-</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="btn-wrap">
-                                    <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
-                                        class="btn-buy">Konsultasikan</a>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!-- Business Package -->
-                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                            <div class="pricing-item">
-                                <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan"
-                                    style="width: 70%; border-radius: 10px 10px 0 0;">
-                                <h3>Model 2</h3>
-                                <span>mulai dari </span>
-                                <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
-                                <div class="grade-label" id="business-grade">L.2 Grade A</div>
-
-                                <!-- Tabs -->
-                                <ul class="nav nav-tabs" id="businessTab" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="business1-tab" data-bs-toggle="tab"
-                                            data-bs-target="#business1" type="button" role="tab">Grade
-                                            A</button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="business2-tab" data-bs-toggle="tab"
-                                            data-bs-target="#business2" type="button" role="tab">Grade
-                                            B</button>
-                                    </li>
-                                </ul>
-
-                                <!-- Tab Content -->
-                                <div class="tab-content" id="businessTabContent">
-                                    <div class="tab-pane fade show active" id="business1" role="tabpanel">
-                                        <ul id="businessGradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Lantai 1, Tinggi Plafond 4 Meter</li>
-                                            <li>Lantai 2, Tinggi Plafond 3,75 Meter</li>
-                                            <li>-</li>
-                                        </ul>
-                                    </div>
-                                    <div class="tab-pane fade" id="business2" role="tabpanel">
-                                        <ul id="businessGradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Lantai 1, Tinggi Plafond 4 Meter</li>
-                                            <li>Lantai 2, Tinggi Plafond 3,5 Meter</li>
-                                            <li>-</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="btn-wrap">
-                                    <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
-                                        class="btn-buy">Konsultasikan</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Developer Package -->
-                        <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                            <div class="pricing-item">
-                                <img src="/assets/img/0d79ad12-4425-4810-b8bc-624ec929e843.jpeg" alt="Business Plan"
-                                    style="width: 70%; border-radius: 10px 10px 0 0;">
-                                <h3>Model 3</h3>
-                                <span>mulai dari </span>
-                                <h4><sup>Rp</sup>3.500.000<span> /m persegi</span></h4>
-                                <div class="grade-label" id="developer-grade">L.3 Grade A</div>
-
-                                <!-- Tabs -->
-                                <ul class="nav nav-tabs" id="developerTab" role="tablist">
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link active" id="developer1-tab" data-bs-toggle="tab"
-                                            data-bs-target="#developer1" type="button" role="tab">Grade
-                                            A</button>
-                                    </li>
-                                    <li class="nav-item" role="presentation">
-                                        <button class="nav-link" id="developer2-tab" data-bs-toggle="tab"
-                                            data-bs-target="#developer2" type="button" role="tab">Grade
-                                            B</button>
-                                    </li>
-                                </ul>
-
-                                <!-- Tab Content -->
-                                <div class="tab-content" id="developerTabContent">
-                                    <div class="tab-pane fade show active" id="developer1" role="tabpanel">
-                                        <ul id="developerGradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Lantai 1, Tinggi Plafond 4 Meter</li>
-                                            <li>Lantai 2, Tinggi Plafond 3,75 Meter</li>
-                                            <li>Lantai 3, Tinggi Plafond 3,5 Meter</li>
-                                        </ul>
-                                    </div>
-                                    <div class="tab-pane fade" id="developer2" role="tabpanel">
-                                        <ul id="developerGradeAList">
-                                            <li>Dinding Bata Merah/bata ringan</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Lantai Granit Tile (60x60)</li>
-                                            <li>Kusen Alumunium</li>
-                                            <li>Atap Baja Ringan</li>
-                                            <li>Genteng (Alderon/Karang/Cor)</li>
-                                            <li>Cat Jotun</li>
-                                            <li>Lantai 1, Tinggi Plafond 4 Meter</li>
-                                            <li>Lantai 2, Tinggi Plafond 3,5 Meter</li>
-                                            <li>Lantai 3, Tinggi Plafond 3,25 Meter</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="btn-wrap">
-                                    <a href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
-                                        class="btn-buy">Konsultasikan</a>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-                    </div>
-                </div>
-            </section>
-
-
-            <!-- Recent Posts Section -->
-            <section id="recent-posts" class="recent-posts section">
-
-                <!-- Section Title -->
-                <div class="container section-title" data-aos="fade-up">
-                    <h2>Solusi Konstruksi Terbaik untuk Masa Depan Anda</h2>
-                    <p>Kami hadir untuk mewujudkan visi Anda melalui layanan konstruksi yang efisien, terpercaya, dan
-                        berorientasi hasil. Percayakan kebutuhan proyek Anda kepada tim yang berpengalaman dan
-                        berdedikasi.</p>
-                </div><!-- End Section Title -->
-
-                <div class="container">
-
-                    <div class="row gy-4">
-
-                        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-                            <article>
-
-                                <div class="post-img">
-                                    <img src="/assets/img/blog/b219963c-6545-43c8-8a9f-2f2ccb58b4b9.png"
-                                        alt="" class="img-fluid">
-                                </div>
-
-                                <p class="post-category">Projeck View</p>
-
-                                <h2 class="title">
-                                    <a href="{{ route('toni') }}">Rumah Bp. H. Toni</a>
-                                </h2>
-
-
-
-                            </article>
-                        </div><!-- End post list item -->
-
-                        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                            <article>
-
-                                <div class="post-img">
-                                    <img src="/assets/img/blog/e65aec7d-699d-4035-81dd-3df2c6222f60.jpeg"
-                                        alt="" class="img-fluid">
-                                </div>
-
-                                <p class="post-category">Projeck View</p>
-
-                                <h2 class="title">
-                                    <a href="{{ route('ari') }}">Rumah Bp. Ari Lumaksono</a>
-                                </h2>
-
-
-
-                            </article>
-                        </div><!-- End post list item -->
-
-                        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                            <article>
-
-                                <div class="post-img">
-                                    <img src="/assets/img/blog/4faea5b9-464d-430f-8b42-9703eb030845.jpeg"
-                                        alt="" class="img-fluid">
-                                </div>
-
-                                <p class="post-category">Projeck View</p>
-
-                                <h2 class="title">
-                                    <a href="{{ route('yudi') }}">Rumah Dr. Yudi Fadillah</a>
-                                </h2>
-
-
-
-                            </article>
-                        </div><!-- End post list item -->
-
-                    </div><!-- End recent posts list -->
-
-                </div>
-
-            </section><!-- /Recent Posts Section -->
-
-            <!-- Contact Section -->
-            <section id="contact" class="contact section light-background">
-
-                <!-- Section Title -->
-                <div class="container section-title" data-aos="fade-up">
-                    <h2>Kontak</h2>
-                    <p>Melayani konsultasi gratis dengan kami berapapun anggaran anda</p>
-                </div><!-- End Section Title -->
-
-                <div class="container" data-aos="fade" data-aos-delay="100">
-
-                    <div class="row gy-4">
-
-                        <div class="col-lg-4">
-                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                                <i class="bi bi-geo-alt flex-shrink-0"></i>
-                                <div>
-                                    <h3>Alamat</h3>
-                                    <p>Jl. Rawa Lindung No. 108 Cilangkap, Cipayung Jakarta Timur</p>
-                                </div>
-                            </div><!-- End Info Item -->
-
-                            <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                                <i class="bi bi-telephone flex-shrink-0"></i>
-                                <div>
-                                    <h3>Hubungi Kami</h3>
-                                    <p>+62 856 498 380 98</p>
-                                </div>
-                            </div><!-- End Info Item -->
-
-
-                        </div>
-
-                        <div class="col-lg-8">
-                            <form id="contactForm" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-
-                                <div class="row gy-4">
-
-                                    <div class="col-md-6">
-                                        <input type="text" name="name" id="name" class="form-control"
-                                            placeholder="Your Name" required="">
-                                    </div>
-
-                                    <div class="col-md-6 ">
-                                        <input type="email" name="email" id="email" class="form-control"
-                                            placeholder="Your Email" required="">
-                                    </div>
-
-                                    <div class="col-md-12">
-                                        <input type="text" name="subject" id="subject" class="form-control"
-                                            placeholder="Subject" required="">
-                                    </div>
-
-                                    <div class="col-md-12">
-                                        <textarea name="message" id="message" class="form-control" rows="6" placeholder="Message" required=""></textarea>
-                                    </div>
-
-                                    <div class="col-md-12 text-center">
-                                        <div class="loading">Loading</div>
-                                        <div class="error-message"></div>
-                                        <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                                        <button type="submit">kirim pesan</button>
-                                    </div>
-
-                                </div>
-                            </form>
-                        </div><!-- End Contact Form -->
-
-                    </div>
-
-                </div>
-
-            </section><!-- /Contact Section -->
-
-    </main>
 
     <footer id="footer" class="footer dark-background"
         style="margin-top:60px; padding-top:20px; padding-bottom:10px;">
