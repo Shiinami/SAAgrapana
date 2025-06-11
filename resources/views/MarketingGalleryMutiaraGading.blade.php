@@ -49,7 +49,7 @@
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
-                    <li><a href="{{ route('outher-project') }}">Outher Project</a></li>
+                    <li><a href="{{ route('outher-project') }}">Other Project</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -69,7 +69,7 @@
                 <nav class="breadcrumbs">
                     <ol>
                         <li><a href="{{ route('home') }}">Beranda</a></li>
-                        <li class="current">project View</li>
+                        <li class="current">Project View</li>
                     </ol>
                 </nav>
             </div>

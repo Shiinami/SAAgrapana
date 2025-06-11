@@ -53,7 +53,7 @@
           <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
           <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
           <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
-          <li><a href="{{ route('outher-project') }}">Outher Project</a></li>
+          <li><a href="{{ route('outher-project') }}">Other Project</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
@@ -69,11 +69,11 @@
     <div class="page-title dark-background" data-aos="fade"
       style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp); ">
       <div class="container position-relative">
-        <h1 style="font-size:70px;">Outher Project</h1>
+        <h1 style="font-size:70px;">Other Project</h1>
         <nav class="breadcrumbs">
           <ol>
             <li><a href={{ route('home') }} target="_blank">Home</a></li>
-            <li class="current">outher-project</li>
+            <li class="current">Other Project</li>
           </ol>
         </nav>
       </div>
