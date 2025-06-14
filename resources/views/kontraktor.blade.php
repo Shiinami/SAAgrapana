@@ -8,6 +8,9 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
+    <meta name="description" content="PT. Sila Agung Agrapana adalah kontraktor profesional yang melayani jasa desain arsitektur, konstruksi rumah, renovasi, dan interior di Indonesia. Wujudkan rumah impian Anda bersama kami.">
+    <meta name="keywords" content="jasa desain arsitek, kontraktor rumah, desain rumah 3D, pembangunan rumah, renovasi bangunan, desain interior, jasa konstruksi, PT Sila Agung Agrapana, kontraktor profesional, gambar kerja arsitektur, perizinan bangunan">
+
     <!-- Favicons -->
     <link href="/assets/img/Sila Agug Agrapana.jpg" rel="icon">
     <link href="/assets/img/Sila Agug Agrapana.jpg" rel="apple-touch-icon">
@@ -52,7 +55,6 @@
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
-
                     <li><a href="{{ route('outher-project') }}">Other Project</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -68,7 +70,7 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-      <img src="/assets/img/279523d2-20f5-4ccb-bbda-06d902f91cdb.jpeg" alt="" data-aos="fade-in">
+      <img src="/assets/img/279523d2-20f5-4ccb-bbda-06d902f91cdb.jpeg" alt="PT. Sila Agung Agrapana" data-aos="fade-in">
 
       <div class="container d-flex flex-column align-items-center text-center">
         <h2 data-aos="fade-up" data-aos-delay="100">General Contractors
@@ -130,7 +132,7 @@
         <!-- Call To Action Section -->
         <section id="call-to-action" class="call-to-action section dark-background">
 
-            <img src="/assets/img/cta-bg.jpg" alt="">
+            <img src="/assets/img/cta-bg.jpg" alt="Kontraktor">
 
             <div class="container">
 
@@ -146,7 +148,7 @@
                     </div>
                 </div>
 
-            
+
 
         </section><!-- /Call To Action Section -->
 
@@ -158,7 +160,7 @@
                 <div class="row gy-4">
 
                     <div class="features-image col-lg-6 order-lg-2" data-aos="fade-up" data-aos-delay="100"><img
-                            src="/assets/img/Sila Agung Agrapana.png" width="auto" height="auto"></div>
+                            src="/assets/img/Sila Agung Agrapana.png" alt="Kontraktor Bangunan" width="auto" height="auto"></div>
 
                     <div class="col-lg-6 order-lg-1">
 
@@ -222,7 +224,7 @@
 
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                             <div class="pricing-item">
-                                <img src="/assets/img/2fff96f9-de81-42b2-979a-412327020b54.jpeg" alt="Business Plan"
+                                <img src="/assets/img/2fff96f9-de81-42b2-979a-412327020b54.jpeg" alt="Arsitektur Rumah"
                                     style="width: 80%; border-radius: 10px 10px 0 0; height: 300px;">
                                 <h3>PAKET LITE</h3>
                                 <h4><sup>Rp</sup>25.000<span> /m Persegi</span></h4>
@@ -247,7 +249,7 @@
 
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                             <div class="pricing-item recommended">
-                                <img src="/assets/img/2025-05-26 at 15.44.00_13835104.jpg" alt="Business Plan"
+                                <img src="/assets/img/2025-05-26 at 15.44.00_13835104.jpg" alt="Arsitektur Ruangan"
                                     style="width: 80%; border-radius: 10px 10px 0 0;">
 
                                 <h3>PAKET ADVANCED</h3>
@@ -273,7 +275,7 @@
 
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                             <div class="pricing-item">
-                                <img src="/assets/img/2025-05-26 at 15.44.00_fe91feef.jpg" alt="Business Plan"
+                                <img src="/assets/img/2025-05-26 at 15.44.00_fe91feef.jpg" alt="Arsitektur Tempat Tinggal"
                                     style="width: 80%; border-radius: 10px 10px 0 0;">
                                 <h3>PAKET MEDIUM</h3>
                                 <h4><sup>Rp</sup>50.000<span> /m Persegi</span></h4>
@@ -360,7 +362,7 @@
 
                         <div class="col-lg-5 order-1 order-lg-2">
                             <img src="/assets/img/c202c555-038a-4342-8168-711cc1bae555.jpeg" class="img-fluid"
-                                alt="" data-aos="zoom-in" data-aos-delay="100">
+                                alt="Akta Perusahaan" data-aos="zoom-in" data-aos-delay="100">
                         </div>
                     </div>
 
@@ -383,7 +385,7 @@
 
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                             <div class="pricing-item">
-                                <img src="/assets/img/2025-05-26 at 15.43.59_dc4f24a4.jpg" alt="Business Plan"
+                                <img src="/assets/img/2025-05-26 at 15.43.59_dc4f24a4.jpg" alt="Desain Rumah Minimalis"
                                     style="width: 70%; border-radius: 10px 10px 0 0; height: 260px;">
                                 <h3>Model 1</h3>
                                 <span>mulai dari </span>
@@ -447,7 +449,7 @@
                         <!-- Business Package -->
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                             <div class="pricing-item">
-                                <img src="/assets/img/2025-05-26 at 15.43.59_286647aa.jpg" alt="Business Plan"
+                                <img src="/assets/img/2025-05-26 at 15.43.59_286647aa.jpg" alt="Desain Rumah Modern"
                                     style="width: 70%; border-radius: 10px 10px 0 0;">
                                 <h3>Model 2</h3>
                                 <span>mulai dari </span>
@@ -510,7 +512,7 @@
                         <!-- Developer Package -->
                         <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                             <div class="pricing-item">
-                                <img src="/assets/img/2025-05-26 at 15.43.59_011edb8c.jpg" alt="Business Plan"
+                                <img src="/assets/img/2025-05-26 at 15.43.59_011edb8c.jpg" alt="Desain Rumah Megah"
                                     style="width: 70%; border-radius: 10px 10px 0 0;">
                                 <h3>Model 3</h3>
                                 <span>mulai dari </span>
@@ -597,7 +599,7 @@
 
                                 <div class="post-img">
                                     <img src="/assets/img/blog/b219963c-6545-43c8-8a9f-2f2ccb58b4b9.png"
-                                        alt="" class="img-fluid">
+                                        alt="Rumah Bp. Toni" class="img-fluid">
                                 </div>
 
                                 <p class="post-category">Project View</p>
@@ -622,7 +624,7 @@
 
                                 <div class="post-img">
                                     <img src="/assets/img/blog/e65aec7d-699d-4035-81dd-3df2c6222f60.jpeg"
-                                        alt="" class="img-fluid">
+                                        alt="Rumah Bp. Ari" class="img-fluid">
                                 </div>
 
                                 <p class="post-category">Project View</p>
@@ -648,7 +650,7 @@
 
                                 <div class="post-img">
                                     <img src="/assets/img/blog/4faea5b9-464d-430f-8b42-9703eb030845.jpeg"
-                                        alt="" class="img-fluid">
+                                        alt="Rumah Dr. Yudi" class="img-fluid">
                                 </div>
 
                                 <p class="post-category">Project View</p>
@@ -684,14 +686,14 @@
     <p>Tak perlu ragu, Anggaran terbatas bukan penghalang untuk memiliki rumah berkualitas. Konsultasikan Gratis dengan kami.</p>
   </div>
   <div class="portfolio-gallery">
-    <img src="/assets/img/876bbd62-e300-4d6c-8175-5f11ebe6a9a9.jpeg" alt="Portofolio 1" />
-    <img src="/assets/img/9f91a88a-2849-473d-a26a-976e34b489e6.jpeg" alt="Portofolio 2" />
-    <img src="/assets/img/ade3cd98-d7ce-4577-8ca7-27480ff34b7d (1).jpeg"alt="Portofolio 3" />
-    <img src="/assets/img/11659294-e181-486b-9d4a-72e3311c512a.jpeg" alt="Portofolio 4" />
-    <img src="/assets/img/247f08ac-a392-430c-ab22-ef90d6c3069d.jpeg" alt="Portofolio 5" />
-    <img src="/assets/img/165082ae-38bb-43e3-97ed-6224c5c06208.jpeg" alt="Portofolio 6" />
-    <img src="/assets/img/dfc51cc6-ce13-42e8-862b-5d2d265437d3.jpeg" alt="Portofolio 7" />
-    <img src="/assets/img/cdbc8e33-cb83-40a3-bef8-74ae0c9f38e4.jpeg" alt="Portofolio 8" />
+    <img src="/assets/img/876bbd62-e300-4d6c-8175-5f11ebe6a9a9.jpeg" alt="Portofolio 1 Desain Rumah 3 Dimensi" />
+    <img src="/assets/img/9f91a88a-2849-473d-a26a-976e34b489e6.jpeg" alt="Portofolio 2 Desain Arsitektur Rumah" />
+    <img src="/assets/img/ade3cd98-d7ce-4577-8ca7-27480ff34b7d (1).jpeg"alt="Portofolio 3 Desain Rumah Minimalis" />
+    <img src="/assets/img/11659294-e181-486b-9d4a-72e3311c512a.jpeg" alt="Portofolio 4 Desain Rumah 2 Lantai" />
+    <img src="/assets/img/247f08ac-a392-430c-ab22-ef90d6c3069d.jpeg" alt="Portofolio 5 Desain Perkantoran" />
+    <img src="/assets/img/165082ae-38bb-43e3-97ed-6224c5c06208.jpeg" alt="Portofolio 6 Desain Masjid" />
+    <img src="/assets/img/dfc51cc6-ce13-42e8-862b-5d2d265437d3.jpeg" alt="Portofolio 7 Desain Rumah 3D 2 Lantai Minimalis" />
+    <img src="/assets/img/cdbc8e33-cb83-40a3-bef8-74ae0c9f38e4.jpeg" alt="Portofolio 8 Desain Rumah Minimalis" />
   </div>
 </section>
 
