@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,18 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/jeghewrhg4e5t489375634.jpg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/dshebriohe3io3245891613204.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
+                            <img src="assets/img/blog/ewrguhw43786ouiedfg.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +126,12 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Rumah Bp. Reynaldo – Mewah, nyaman, elegan, impian, harmoni.</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Kami telah melakukan transformasi besar pada setiap sudut, mulai dari fasad yang memukau, atap yang dinamis, hingga penataan ulang tata ruang interior yang memaksimalkan setiap inci. Dengan pendekatan desain modern minimalis yang bersih dan tajam, rumah ini dirancang untuk memaksimalkan pencahayaan alami yang melimpah, efisiensi ruang yang cerdas, dan kenyamanan tiada tara bagi penghuninya.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Rumah Bp. Reynaldo bukan sekadar bangunan, melainkan sebuah pernyataan gaya yang mengundang Anda untuk merasakan pengalaman tinggal yang istimewa, tanpa kehilangan esensi kehangatan dan keindahan rumah tropis Indonesia. Jangan lewatkan kesempatan untuk memiliki hunian impian ini!
                             </p>
 
 

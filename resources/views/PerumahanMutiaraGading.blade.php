@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,16 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/saklef3489htjkwerg.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/2f60c77a-6dab-45f0-9476-b7ce8fcf3b90.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,20 +124,16 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Perumahan Mutiara Gading – Mewujudkan Lingkungan Hunian Impian dengan Kualitas Pembangunan Terbaik </h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Dengan bangga kami persembahkan salah satu proyek perumahan unggulan kami: Perumahan Mutiara Gading! Ini adalah bukti nyata keahlian dan dedikasi kami dalam menciptakan lingkungan hunian yang tidak hanya indah secara estetika, tetapi juga nyaman, fungsional, dan memberikan nilai investasi jangka panjang bagi setiap penghuninya.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Perumahan Mutiara Gading menampilkan deretan rumah dengan desain modern minimalis yang elegan dan menawan. Setiap unit dirancang dengan cermat, memadukan fasad yang bersih, atap pelana yang kokoh, serta jendela-jendela yang memaksimalkan pencahayaan alami. Tata letak klaster yang terencana dengan baik tidak hanya menjamin privasi dan keamanan, tetapi juga menciptakan suasana lingkungan yang asri dan harmonis, ideal untuk tumbuh kembang keluarga.
                             </p>
-
+                            <p>
+Sebagai penyedia jasa desain dan konstruksi, kami telah mengaplikasikan standar kualitas tertinggi dalam setiap tahapan pembangunan Perumahan Mutiara Gading. Dari pemilihan material terbaik, proses konstruksi yang presisi, hingga penyelesaian akhir yang rapi, kami memastikan setiap rumah adalah investasi yang kokoh dan dapat diandalkan. Keberhasilan proyek ini adalah cerminan komitmen kami dalam memberikan hasil terbaik bagi klien dan penghuni.
+                            </p>
 
 
 

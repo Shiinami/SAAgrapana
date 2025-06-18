@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,15 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/dsagjvewh98t34qwtgjekg.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/EAGBIJREBHEROPHJERFH.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +123,17 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko Dasana Xenter Bonang – Sentuhan Desain Modern Penuh Warna, Wujud Nyata Kualitas Jasa Kami!</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Kami bangga mempersembahkan salah satu proyek komersial kami yang paling dinamis dan menarik: Ruko Dasana Xenter Bonang. Proyek ini adalah cerminan sempurna dari keahlian kami dalam menciptakan ruang bisnis yang tidak hanya fungsional dan strategis, tetapi juga memancarkan daya tarik visual yang tak terlupakan di kawasan Bonang!
+
+
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Ruko Dasana Xenter Bonang dirancang untuk menjadi pusat bisnis yang hidup dan inovatif. Perhatikan bagaimana setiap unit ruko tampil menonjol dengan perpaduan warna-warni cerah yang berani dan desain modern yang bersih. Kombinasi warna oranye, biru, hijau, dan abu-abu tidak hanya menciptakan identitas yang kuat, tetapi juga menarik perhatian dan energi positif, menjadikannya lokasi yang ideal untuk beragam jenis usaha.
+                            </p>
+                              <p>
+Sebagai penyedia jasa desain dan konstruksi, kami telah mengaplikasikan pendekatan yang terencana dan presisi dalam mewujudkan Ruko Dasana Xenter Bonang. Dari konsep awal hingga penyelesaian akhir, kami memastikan setiap detail dieksekusi dengan standar kualitas tertinggi, menghasilkan deretan ruko yang kokoh, estetis, dan siap mendukung pertumbuhan bisnis para pengusaha.
                             </p>
 
 

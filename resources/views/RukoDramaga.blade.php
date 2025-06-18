@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,14 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/a577c6c7-8074-4530-ac50-f9e529311238.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/cbdbbaba-e1ce-4d1e-b41f-c6f46979fc67.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +122,15 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko Dramaga – Pusat Bisnis Modern yang Kami Wujudkan dengan Desain Optimal dan Kualitas Tinggi</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+                                Kami dengan bangga mempersembahkan salah satu proyek komersial skala besar yang menjadi bukti keunggulan jasa kami: Ruko Dramaga! Klien kami mempercayakan kami untuk merancang dan membangun kompleks ruko yang strategis ini, yang kini berdiri kokoh sebagai pusat aktivitas bisnis yang dinamis dan modern di kawasan Dramaga.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Ruko Dramaga dirancang untuk memaksimalkan potensi komersial. Dengan fasad yang bersih, garis-garis tegas, dan perpaduan warna abu-abu serta putih yang elegan, setiap unit ruko memancarkan profesionalisme dan daya tarik modern. Jendela-jendela besar di setiap lantai tidak hanya menambah estetika tetapi juga memastikan visibilitas maksimal bagi setiap unit usaha, sekaligus mengoptimalkan pencahayaan alami di dalam ruangan. Tata letak yang efisien dan aksesibilitas yang baik juga kami pertimbangkan secara cermat untuk menciptakan lingkungan yang kondusif bagi berbagai jenis bisnis.
+                            </p>
+                                                        <p>
+Sebagai penyedia jasa desain dan konstruksi terkemuka, kami telah mengaplikasikan keahlian terbaik kami dalam setiap tahapan pembangunan Ruko Dramaga ini. Dari perencanaan makro yang mempertimbangkan potensi bisnis dan lalu lintas, pemilihan material berkualitas tinggi yang tahan lama, hingga eksekusi pembangunan yang detail dan tepat waktu, kami memastikan setiap aspek proyek ini dikerjakan dengan standar tertinggi. Keberhasilan Ruko Dramaga adalah cerminan komitmen kami dalam memberikan solusi properti komersial yang unggul dan menguntungkan bagi klien kami.
                             </p>
 
 

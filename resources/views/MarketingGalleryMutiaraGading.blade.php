@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,16 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/ad6cbe51-9c56-40eb-9cea-980dcc60c597.jpeg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/34875HTUREGJKDF.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,19 +124,17 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Marketing Gallery Mutiara Gading – Pusat Impian Hunian yang Memukau, Berkat Desain Inovatif</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Dengan bangga kami persembahkan salah satu proyek komersial penting yang telah kami wujudkan: Marketing Gallery Mutiara Gading! Ini adalah bukti nyata dedikasi dan kemampuan kami dalam merancang serta membangun fasilitas yang tidak hanya berfungsi sebagai pusat informasi, tetapi juga sebagai magnet visual yang menarik minat dan kepercayaan calon pembeli properti.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Marketing Gallery Mutiara Gading dirancang sebagai sebuah ikon modern di kawasan [Anda bisa tambahkan lokasi spesifik Mutiara Gading jika tahu, misal "di pusat pengembangan kota"]. Dengan fasad yang dinamis dan perpaduan warna merah, oranye, hijau, dan putih yang cerah, bangunan ini langsung menarik perhatian. Desain modern minimalis dengan aksen vertikal yang tegas dan jendela-jendela besar menciptakan kesan profesionalisme dan keterbukaan, sangat ideal untuk memamerkan produk properti terbaik.
                             </p>
+                                                        <p>
+Sebagai penyedia jasa desain dan konstruksi, kami telah mengaplikasikan keahlian terbaik kami dalam setiap tahapan proyek ini. Dari konsep awal yang bertujuan menciptakan first impression yang kuat, hingga eksekusi detail yang presisi, kami memastikan bahwa Marketing Gallery ini tidak hanya indah tetapi juga fungsional dan efisien sebagai pusat pemasaran. Keberhasilan proyek ini adalah cerminan komitmen kami dalam mendukung kesuksesan bisnis klien.
+                            </p>
+
 
 
 

@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,18 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/savgeui4wy3877777772t534ug.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/EWRLAGKH43T89HSDKG.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
+                            <img src="assets/img/blog/ESKJGHEKER.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,21 +126,17 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Rumah Bp. H. Azzam – Keanggunan Klasik Modern</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Rumah Bp. H. Azzam menawarkan fasad yang menawan dengan atap pelana yang ikonik, memberikan kesan kokoh sekaligus ramah. Jendela-jendela besar dengan kisi-kisi klasik tidak hanya menambah estetika tetapi juga memastikan pencahayaan alami yang melimpah di setiap sudut ruangan. Tangga masuk yang megah dan teras depan yang welcoming menciptakan kesan pertama yang tak terlupakan.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+tata ruang interior yang lapang dan fungsional, dirancang untuk kenyamanan keluarga modern. Setiap detail akan diperhatikan dengan seksama, mulai dari pemilihan material hingga finishing, menjanjikan kualitas bangunan yang prima dan suasana rumah yang hangat serta mengundang.
                             </p>
 
-
+    <p>
+umah Bp. H. Azzam adalah investasi berharga bagi masa depan. Ini bukan sekadar tempat tinggal, melainkan sebuah warisan yang akan menciptakan kenangan abadi bagi keluarga besar bapak Azzam.
+                            </p>
 
 
 

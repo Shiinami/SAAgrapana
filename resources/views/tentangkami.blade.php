@@ -46,10 +46,12 @@
 
             <nav id="navmenu" class="navmenu">
                 <ul>
-                   <li><a href="{{ route('home') }}">Beranda</a></li>
+                    <li><a href="{{ route('home') }}">Beranda</a></li>
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
+                    <li><a href="{{ route('outher-project') }}">Other Project</a></li>
+
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -192,7 +194,8 @@
                             </a>
                             <div>
                                 <h4 class="mb-1" style="font-size: 1.8rem; font-weight:bold;">No. Telepon</h4>
-                                <p href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi." class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
+                                <p href="https://wa.me/6285649838098?text=Halo%2C%20saya%20ingin%20menghubungi%20Sila%20Agung%20Agrapana%20terkait%20jasa%20konstruksi."
+                                    class="mb-0" style="font-size: 1.5rem;">+62 856 498 380 98 (admin)<br></p>
                             </div>
                         </div>
                     </div>

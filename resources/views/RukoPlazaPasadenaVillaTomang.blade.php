@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,16 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/c4cf9cf7-71e5-4c1c-b2bf-2b92f1c0ce9b.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/43789RRRRRRRRRGERU.jpg" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +124,15 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko Plaza Pasadena Villa Tomang – Membangun Pusat Bisnis Ikonik dengan Keunggulan Desain</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Dengan bangga kami persembahkan salah satu proyek komersial paling prestisius yang telah kami sukseskan: Ruko Plaza Pasadena Villa Tomang! Ini adalah bukti nyata keahlian, inovasi, dan komitmen kami dalam menciptakan ruang bisnis yang tidak hanya fungsional, tetapi juga menonjol secara visual dan siap menjadi pusat aktivitas ekonomi di kawasan Villa Tomang!
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Ruko Plaza Pasadena Villa Tomang dirancang sebagai kompleks bisnis modern yang memancarkan energi dan profesionalisme. Perpaduan warna oranye cerah, kuning, biru, dan putih yang berani pada fasad, dikombinasikan dengan garis-garis arsitektur kontemporer, menciptakan tampilan yang menarik dan mudah dikenali. Desain bangunan yang multi-tingkat dengan jendela-jendela besar memastikan visibilitas maksimal bagi setiap unit usaha, sekaligus mengoptimalkan pencahayaan alami di dalamnya.
+                            </p>
+                                                        <p>
+Sebagai penyedia jasa desain dan konstruksi terkemuka, kami telah mengaplikasikan standar kualitas tertinggi dalam setiap tahapan pembangunan Ruko Plaza Pasadena ini. Dari perencanaan makro yang mempertimbangkan lalu lintas dan aksesibilitas, hingga detail mikro pada setiap fasad dan interior, kami memastikan setiap unit ruko siap mendukung berbagai jenis usaha dengan optimal. Keberhasilan proyek ini adalah cerminan dedikasi kami dalam memberikan solusi properti komersial yang unggul dan menguntungkan.
                             </p>
 
 

@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,16 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/f324100b-882e-43e7-9ac2-c826d5762304.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/EGBIOEGUW4568945.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +124,15 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko La Vresco Mutiara Gading – Membangun Pusat Bisnis Modern Penuh Energi dengan Sentuhan Ahli Kami!</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Kami dengan bangga mempersembahkan salah satu proyek komersial skala besar yang telah sukses kami rampungkan: Ruko La Vresco Mutiara Gading! Ini adalah bukti nyata keahlian dan kapabilitas kami dalam menciptakan kompleks ruko yang tidak hanya strategis secara lokasi, tetapi juga memancarkan daya tarik visual yang kuat dan mendukung pertumbuhan bisnis para pengusaha di dalamnya.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Ruko La Vresco Mutiara Gading berdiri megah sebagai ikon bisnis modern di kawasan Mutiara Gading. Dengan arsitektur yang dinamis dan perpaduan warna merah, abu-abu, serta putih yang berani, kompleks ruko ini langsung menarik perhatian. Desain vertikal yang ramping, jendela-jendela besar, dan area pedestrian yang lapang menciptakan lingkungan yang kondusif untuk berbagai jenis usaha, mulai dari ritel, kuliner, hingga perkantoran.
+                            </p>
+                                                        <p>
+Sebagai penyedia jasa desain dan konstruksi, kami telah mengaplikasikan pendekatan yang holistik dan presisi dalam mewujudkan Ruko La Vresco Mutiara Gading. Dari perencanaan tata letak yang memaksimalkan visibilitas unit, pemilihan material berkualitas tinggi, hingga eksekusi pembangunan yang detail dan tepat waktu, kami memastikan setiap aspek proyek ini dikerjakan dengan standar tertinggi. Keberhasilan proyek ini adalah cerminan komitmen kami dalam memberikan solusi properti komersial yang unggul.
                             </p>
 
 

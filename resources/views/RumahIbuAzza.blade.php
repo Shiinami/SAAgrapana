@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,20 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/jifgwttttttt50689erpig2354235.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/LSJKDGH89HEHH.jpg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
+                            <img src="assets/img/blog/ED5HS98YHGIDFG.png" alt="">
+                        </div>
+                        <div class="swiper-slide">
+                            <img src="assets/img/blog/SUAWGH4W387TGHDWG.jpg" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,20 +128,16 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Rumah Ibu Azza – Harmoni Desain Modern Minimalis </h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Hadirkan kehidupan impian Anda di Rumah Ibu Azza, sebuah hunian istimewa yang memancarkan pesona modern minimalis, dirancang untuk kenyamanan maksimal dan estetika yang tak lekang oleh waktu. Dengan proses pembangunan yang cermat, rumah ini akan segera menjadi perwujudan sempurna dari rumah idaman Anda.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Dari gambar rancangan yang menawan, terlihat bahwa Rumah Ibu Azza mengusung desain yang bersih dan fungsional. Atap pelana yang ikonik memberikan sentuhan klasik yang berpadu apik dengan garis-garis modern yang tegas. Fasad yang sederhana namun elegan dipercantik dengan aksen dinding bertekstur dan pencahayaan yang optimal, menciptakan kesan hangat dan ramah.
                             </p>
-
+<p>
+Fitur-fitur seperti carport yang terintegrasi dengan baik dan area teras depan yang menawan dengan kanopi transparan, tidak hanya menambah fungsionalitas tetapi juga memperkaya tampilan visual rumah. Setiap detail dirancang untuk memaksimalkan penggunaan ruang dan cahaya alami, memastikan hunian yang nyaman, terang, dan efisien energi.
+                            </p>
 
 
 

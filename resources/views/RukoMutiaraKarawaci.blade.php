@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,15 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/hhhhhhhhhhhhhhhhrge3e3t578w9herg.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/SAEGBHWE8934G.jpg" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +123,15 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Ruko Mutiara Karawaci – Investasi Bisnis Cemerlang dengan Sentuhan Desain Profesional Kami!</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Ruko Mutiara Karawaci. Proyek ini adalah bukti nyata komitmen kami dalam menghadirkan solusi desain dan pembangunan ruko yang tidak hanya fungsional, tetapi juga memiliki daya tarik visual yang kuat, siap mendukung kesuksesan bisnis Anda.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Ruko Mutiara Karawaci didesain untuk menjadi pusat aktivitas komersial yang dinamis dan modern. bagaimana fasad ruko ini memancarkan aura profesionalisme dengan sentuhan warna-warna cerah yang unik pada setiap unitnya, memberikan identitas yang kuat dan menarik perhatian. Jendela-jendela besar dirancang untuk memaksimalkan pencahayaan alami, menciptakan interior yang terang dan nyaman, ideal untuk berbagai jenis usaha.
+                            </p>
+                            <p>
+Sebagai penyedia jasa desain dan konstruksi, kami telah merampungkan proyek ini dengan standar kualitas tertinggi. Dari perencanaan awal hingga eksekusi detail, setiap langkah telah kami tangani dengan cermat untuk memastikan ruko ini siap beroperasi dan memberikan nilai tambah maksimal bagi para pemiliknya. Kehadiran Ruko Mutiara Karawaci adalah cerminan dedikasi kami dalam mewujudkan visi klien menjadi realitas yang menguntungkan.
                             </p>
 
 

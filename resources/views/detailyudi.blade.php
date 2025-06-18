@@ -49,7 +49,7 @@
                     <li><a href="{{ route('konstruksi') }}">Kontruksi</a></li>
                     <li><a href="{{ route('pricelist') }}">Pricelist</a></li>
                     <li><a href="{{ route('tentang-kami') }}">Tentang Kami</a></li>
-
+                    <li><a href="{{ route('outher-project') }}">Other Project</a></li>
                 </ul>
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
@@ -63,17 +63,20 @@
         <div class="page-title dark-background" data-aos="fade"
             style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(assets/img/page-title-bg.webp);">
             <div class="container position-relative">
-                <h1>Projeck View</h1>
+                <h1>Project View</h1>
                 <p>Menampilkan hasil karya terbaik kami dalam merancang dan membangun hunian impian dengan presisi dan
                     kualitas tinggi.</p>
                 <nav class="breadcrumbs">
                     <ol>
                         <li><a href="{{ route('home') }}">Beranda</a></li>
-                        <li class="current">Projeck View</li>
+                        <li class="current">Project View</li>
                     </ol>
                 </nav>
             </div>
         </div><!-- End Page Title -->
+
+        <!-- Portfolio Details Section -->
+        <section id="portfolio-details" class="portfolio-details section">
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">

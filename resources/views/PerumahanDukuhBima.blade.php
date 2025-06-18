@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,18 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/d0403c31-56be-4626-b67a-67f1ac5dc5c5.jpeg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/389ebec4-4437-45f9-8706-61c66e1d3b97.png" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
+                            <img src="assets/img/blog/7def7f2d-f905-4dc6-843f-4047dff3e6a8.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
+
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,18 +126,15 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Perumahan Dukuh Bima – Mengubah Impian Hunian Menjadi Nyata, Berkat Jasa Profesional</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+                                Dengan bangga kami persembahkan salah satu proyek perumahan unggulan kami: Perumahan Dukuh Bima! Ini adalah bukti nyata kepercayaan yang diberikan oleh klien kami kepada tim profesional kami, dan hasil dari komitmen kami dalam menciptakan lingkungan hunian yang tidak hanya indah secara arsitektur, tetapi juga memberikan kenyamanan maksimal, fungsionalitas optimal, serta nilai investasi yang terus bertumbuh bagi setiap keluarga.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Klien kami mempercayakan kami untuk merancang dan membangun Perumahan Dukuh Bima ini, yang menampilkan rumah-rumah dengan desain modern minimalis yang harmonis dan menawan. Setiap unit dirancang dengan cermat, memadukan fasad yang bersih, atap pelana yang kokoh, serta jendela-jendela yang memaksimalkan pencahayaan alami. Kami memastikan sirkulasi udara optimal, menciptakan suasana interior yang terang dan nyaman di setiap sudut rumah. Lingkungan klaster yang terencana dengan baik juga kami perhatikan, untuk menjamin privasi, keamanan, dan suasana asri yang ideal untuk tumbuh kembang keluarga.
+                            </p>
+                             <p>
+Dari tahap pembangunan pondasi hingga penyelesaian akhir yang sempurna, setiap langkah dalam proyek Perumahan Dukuh Bima telah kami tangani dengan presisi tinggi dan standar kualitas terbaik. Kami menggunakan material pilihan dan tenaga ahli berpengalaman yang merupakan bagian dari tim kami, untuk memastikan setiap rumah yang berdiri kokoh adalah aset berharga yang siap dihuni dengan tenang dan bangga. Keberhasilan proyek ini adalah cerminan dedikasi kami dalam memberikan hasil yang melampaui ekspektasi klien kami.
                             </p>
 
 

@@ -54,12 +54,10 @@
                 <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
             </nav>
 
-                </ul>
-                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-            </nav>
-
         </div>
     </header>
+
+    <main class="main">
 
         <!-- Page Title -->
         <div class="page-title dark-background" data-aos="fade"
@@ -76,7 +74,6 @@
                 </nav>
             </div>
         </div><!-- End Page Title -->
-
 
         <!-- Portfolio Details Section -->
         <section id="portfolio-details" class="portfolio-details section">
@@ -106,20 +103,14 @@
                     <div class="swiper-wrapper align-items-center">
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/7c1c9bf4-f0dc-433b-aacb-4f745bbd8562.png" alt="">
+                            <img src="assets/img/blog/3386758c-13ad-4516-8ad2-a857c3fb4384.jpeg" alt="">
                         </div>
 
                         <div class="swiper-slide">
-                            <img src="assets/img/portfolio/2f1cd5b9-69aa-462b-a37a-8572ac54111d.png" alt="">
+                            <img src="assets/img/blog/b3848d48-f59c-46c8-8390-2169f5c401e3.png" alt="">
                         </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a14e7395-3acb-41f7-89d4-6a3b75a8f3f6.png" alt="">
-                        </div>
 
-                        <div class="swiper-slide">
-                            <img src="assets/img/portfolio/a784c1d8-2e1d-419f-a582-9da5217f4b3b.png" alt="">
-                        </div>
 
                     </div>
                     <div class="swiper-button-prev"></div>
@@ -131,20 +122,16 @@
 
                     <div class="col-lg-8" data-aos="fade-up">
                         <div class="portfolio-description">
-                            <h2>Rumah Bp. Ari – Lumaksono — Hunian Modern dengan Sentuhan Elegan</h2>
+                            <h2>Perumahan Pluit Samudra – Mewujudkan Hunian Modern, Keahlian Kami dalam Setiap Lantainya!</h2>
                             <p>
-                                Hunian milik Bp. Ari ini menjalani proses renovasi menyeluruh untuk menghadirkan wajah
-                                baru yang lebih modern, fungsional, dan estetik. Berlokasi di kawasan Lumaksono, proyek
-                                ini dirancang untuk memaksimalkan pencahayaan alami, efisiensi ruang, serta kenyamanan
-                                bagi penghuni tanpa kehilangan karakter khas rumah tropis Indonesia.
+Dengan bangga kami persembahkan salah satu proyek hunian vertikal modern yang telah sukses kami tangani: Perumahan Pluit Samudra! Proyek ini adalah bukti nyata komitmen dan kapabilitas kami dalam menciptakan hunian yang tidak hanya efisien dalam penggunaan lahan, tetapi juga memancarkan estetika kontemporer dan memberikan kenyamanan maksimal bagi penghuninya di tengah dinamisnya kehidupan kota.
                             </p>
                             <p>
-                                Dengan pendekatan desain modern minimalis, kami melakukan transformasi besar pada bagian
-                                fasad, atap, serta pengaturan ulang tata ruang dalam. Model atap tumpang tindih
-                                dipertahankan namun diberi sentuhan baru agar tampil lebih dinamis. Area carport juga
-                                diperluas dan dilengkapi kanopi transparan untuk sirkulasi cahaya yang lebih baik.
+Perumahan Pluit Samudra menampilkan deretan rumah tapak vertikal atau town house modern yang dirancang dengan cermat. Fasad yang bersih dan modern, perpaduan warna netral dengan aksen biru yang menawan pada jendela, serta jendela-jendela besar yang membentang dari lantai ke lantai, menciptakan tampilan yang elegan dan memaksimalkan masuknya cahaya alami. Desain ini sangat cocok untuk gaya hidup perkotaan yang menginginkan efisiensi ruang tanpa mengorbankan gaya.
                             </p>
-
+                            <p>
+Sebagai penyedia jasa desain dan konstruksi terkemuka, kami telah mengaplikasikan standar kualitas tertinggi dalam setiap tahapan pembangunan Perumahan Pluit Samudra ini. Dari perencanaan tata ruang yang cerdas untuk setiap unit, pemilihan material yang kokoh dan tahan lama, hingga eksekusi pembangunan yang presisi dan tepat waktu, kami memastikan setiap detail dikerjakan dengan sempurna. Keberhasilan proyek ini adalah cerminan dedikasi kami dalam memberikan solusi hunian modern yang unggul.
+                            </p>
 
 
 
